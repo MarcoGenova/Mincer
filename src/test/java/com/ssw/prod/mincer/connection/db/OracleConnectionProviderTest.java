@@ -1,9 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package com.ssw.prod.mincer.connection.db;
 
 import com.ssw.prod.mincer.exceptions.MincerException;
@@ -20,6 +14,7 @@ import org.testng.annotations.Test;
 /**
  *
  * @author m.genova
+ * @since 0.1
  */
 public class OracleConnectionProviderTest {
     
