@@ -3,7 +3,7 @@ package com.ssw.prod.mincer.exceptions;
 /**
  *
  * @author m.genova
- * @since 0.0.1
+ * @since 0.1
  */
 public class MincerException extends Exception {
     
